@@ -13,8 +13,6 @@
     <!-- end header section -->
     <!-- slider section -->
 
-   @include('home.slider')
-
     <!-- end slider section -->
   </div>
   <!-- end hero area -->
@@ -23,12 +21,6 @@
 
   @include('home.product')
 
-  <!-- end shop section -->
-
-   
-
-  <!-- info section -->
-@include('home.footer')
 
 </body>
 
